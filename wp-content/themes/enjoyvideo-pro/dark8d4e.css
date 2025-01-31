@@ -127,7 +127,9 @@ h1, h2, h3, h4, h5, h6 {
       #site-bottom .site-info a:hover {
         color: rgba(255, 255, 255, 0.8); }
   #site-bottom .footer-nav li a {
-    color: #fff; }
+    color: #fff;
+    text-decoration : none;
+  }
     #site-bottom .footer-nav li a:hover {
       color: rgba(255, 255, 255, 0.8); }
 
