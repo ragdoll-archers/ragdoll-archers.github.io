@@ -930,7 +930,7 @@ a {
       .content-block .section-heading h3 a,
       .content-block .section-heading h3 a:visited,
       .content-block .section-heading h3 span {
-        color: #333;
+        color: white;
         display: inline-block; }
       .content-block .section-heading h3 a:hover {
         color: #0099e5;
