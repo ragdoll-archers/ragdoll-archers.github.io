@@ -23,6 +23,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff; }
 
 #primary-menu li a {
+      font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+
   color: #fff; }
 
 #primary-menu li li a:link,
@@ -49,9 +53,10 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #333 !important;
     border-color: #444 !important; } }
 .content-block .section-heading h3 a,
-.content-block .section-heading h3 a:visited,
+.content-block .section-heading h3 a: visited,
 .content-block .section-heading h3 span {
-  color: #fff; }
+  color: #fff;    font-family: sans-serif;
+ }
 
 .content-block .section-heading .section-more-link a,
 .content-block .section-heading .section-more-link a:visited {
@@ -65,7 +70,8 @@ h1, h2, h3, h4, h5, h6 {
 .content-loop .hentry .entry-title a,
 .entry-related .hentry .entry-title a,
 .post-bottom-related .hentry .entry-title a {
-  color: #fff; }
+  color: #fff;     font-family: sans-serif;
+    font-weight: 600;}
   .content-block-1 .hentry .entry-title a:hover,
   .content-loop .hentry .entry-title a:hover,
   .entry-related .hentry .entry-title a:hover,
@@ -128,7 +134,9 @@ h1, h2, h3, h4, h5, h6 {
         color: rgba(255, 255, 255, 0.8); }
   #site-bottom .footer-nav li a {
     color: #fff;
-    text-decoration : none;
+    text-decoration : none;    font-size: medium;
+    font-family: sans-serif;
+
   }
     #site-bottom .footer-nav li a:hover {
       color: rgba(255, 255, 255, 0.8); }
