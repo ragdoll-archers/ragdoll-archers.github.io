@@ -1518,11 +1518,13 @@ a {
     margin: 8px 0 0 25px; }
 .page-content ul li,
 .entry-content ul li {
+  font-family: sans-serif;
   list-style: disc inside;
   margin: 0 0 10px 0;
   position: relative; }
 .page-content ol li,
 .entry-content ol li {
+      font-family: sans-serif;
   list-style: inside decimal;
   margin: 0 0 10px 0; }
 .page-content select,
@@ -1617,7 +1619,10 @@ blockquote {
 
 #primary p,
 .widget p {
-  line-height: 1.7em; }
+  line-height: 1.7em;
+      font-family: sans-serif;
+
+}
 
 /*--------------------------------------------------------------
 5. Archive/Search Page
