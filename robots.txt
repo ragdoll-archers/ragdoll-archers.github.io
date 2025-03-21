@@ -1,1 +1,4 @@
-https://littlegames.gg/robots.txt
+User-agent: *
+Disallow: /admin
+
+Sitemap: https://ragdoll-archers.github.io/sitemap.xml
