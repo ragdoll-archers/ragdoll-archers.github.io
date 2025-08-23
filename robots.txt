@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://https://ragdollarchers2.github.io/sitemap.xml
+Sitemap: https://ragdollarchers2.github.io/sitemap.xml
