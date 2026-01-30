@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+
+Allow: /sitemap.xml
+
+Sitemap: https://ragdoll-archers.github.io/sitemap.xml
